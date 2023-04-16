@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">OSA_collector</string>
+
+    <string name="no_support_ble">not support BLE</string>
+    <string name="start_scan">start scan smartwatch</string>
+    <string name="stop_scan">stop</string>
+
+    <string name="hs_upgrade">HS Upgrade</string>
+
+    <string name="connect_state">Connect State:</string>
+
+    <string name="state_connecting">Contecting</string>
+    <string name="state_connected">Contected</string>
+    <string name="state_disconnected">Discontected</string>
+
+    <string name="disconnect">disconnect</string>
+    <string name="connect">connect</string>
+
+    <string name="sync_time">Sync Time</string>
+    <string name="query_battery">Query Battery</string>
+    <string name="query_firmware">Query Firmware</string>
+    <string name="check_firmware">Check Firmware</string>
+    <string name="firmware_upgrade">Firmware Upgrade</string>
+    <string name="firmware_fix">Firmware Fix</string>
+    <string name="send_user_info">Send User Info</string>
+    <string name="sync_step">Sync Step</string>
+    <string name="step">Step:%d steps</string>
+    <string name="distance">Distance:%d m</string>
+    <string name="calorie">Calorie:%d kcal</string>
+    <string name="sync_sleep">Sync Sleep</string>
+    <string name="restful">Restful:%d Min</string>
+    <string name="light">Light:%d Min</string>
+    <string name="send_metric_system">Send Metric System</string>
+    <string name="query_metric_system">Query Metric System</string>
+    <string name="send_time_system">Send Time System</string>
+    <string name="query_time_system">Query Time System</string>
+    <string name="send_quick_view">Send Quick View</string>
+    <string name="query_quick_view">Query Quick View</string>
+    <string name="send_goal_step">Send Goal Step</string>
+    <string name="query_goal_step">Query Goal Step</string>
+    <string name="send_alarm_clock">Send Alarm Clock</string>
+    <string name="query_alarm_clock">Query All Clock</string>
+    <string name="send_dominant_hand">Send quick view time</string>
+    <string name="query_dominant_hand">Query quick view time</string>
+    <string name="send_device_language">Send Device Language</string>
+    <string name="query_device_language">Query Device Language</string>
+    <string name="send_other_message">Send Other Message</string>
+    <string name="query_other_message">Query Other Message</string>
+    <string name="send_sedentary_reminder">Send Sedentary Reminder</string>
+    <string name="query_sedentary_reminder">Query Sedentary Reminder</string>
+    <string name="send_display_watch_face">Send Watch Face</string>
+    <string name="query_display_watch_face">Query Watch Face</string>
+    <string name="send_breathing_light">Send Breathing Light</string>
+    <string name="query_breathing_light">Query Breathing Light</string>
+    <string name="send_watch_face_layout">Send Watch Face Layout</string>
+    <string name="query_watch_face_layout">Query Watch Face Layout</string>
+    <string name="find_band">Find Band</string>
+    <string name="send_message">Send Message</string>
+    <string name="music_control">Music Control</string>
+    <string name="start_measure_heart_rate">Start Measure Heart Rate</string>
+    <string name="stop_measure_heart_rate">Stop Measure Heart Rate</string>
+    <string name="sync_last_heart_rate">Sync Last Heart Rate</string>
+    <string name="open_24_hour_hreat_rate">Open 24Hour Hreat Rate</string>
+    <string name="close_24_hour_hreat_rate">Close 24Hour Hreat Rate</string>
+    <string name="query_today_hreat_rate">Query Today Hreat Rate</string>
+    <string name="query_yesterday_hreat_rate">Query Yesterday Hreat Rate</string>
+    <string name="query_movement_hreat_rate">Query Movement Hreat Rate</string>
+    <string name="heart_rate">Heart Rate:%d</string>
+    <string name="blood_pressure">sbp:%1$d,dbp:%2$d</string>
+    <string name="blood_oxygen">blood oxygen:%1$d</string>
+    <string name="start_measure_blood_pressure">Start Measure Blood Pressure</string>
+    <string name="stop_measure_blood_pressure">Stop Measure Blood Pressure</string>
+    <string name="send_device_version">Send Device Version</string>
+    <string name="query_device_version">Query Device Version</string>
+    <string name="sync_past_step">Sync Past Step</string>
+    <string name="sync_past_sleep">Sync Past Sleep</string>
+    <string name="send_device_function">Send Display Function</string>
+    <string name="query_device_function">Query Display Function</string>
+    <string name="query_device_support_function">Query Support Function</string>
+    <string name="send_today_weather">Send Today Weather</string>
+    <string name="send_future_weather">Send Future Weather</string>
+    <string name="start_measure_blood_oxygen">Start Measure Blood Oxygen</string>
+    <string name="stop_measure_blood_oxygen">Stop Measure Blood Oxygen</string>
+
+    <string name="start_whensleep_measure_blood_oxygen">Start Measure Blood Oxygen and snoring when sleep</string>
+    <string name="stop_whensleep_measure_blood_oxygen">Stop Measure Blood Oxygen and snoring when sleep</string>
+
+
+    <string name="start_measure_ecg">Start Measure ECG</string>
+    <string name="stop_measure_ecg">Stop Measure ECG</string>
+    <string name="query_last_ecg">Query Last ECG</string>
+
+    <string name="query_today_steps_category">Query Today Steps Category</string>
+    <string name="query_yesterday_steps_category">Query Yesterday Steps Category</string>
+
+
+    <string name="send_physiologcal_period">Send Physiologcal Period</string>
+    <string name="query_physiologcal_period">Query Physiologcal Period</string>
+
+    <string name="query_sleep_action">Query Sleep Action</string>
+    <string name="send_band_ui">Send Band UI</string>
+
+    <string name="switch_background">Switch Background</string>
+    <string name="query_support_watch_face">Query support watch face</string>
+    <string name="query_watch_face_store">Query watch face store</string>
+    <string name="query_watch_face">Query watch face</string>
+
+    <string name="query_quick_contacts">Query quick contacts</string>
+    <string name="send_quick_contacts">Send quick contacts</string>
+    <string name="delete_quick_contacts">Delete quick contacts</string>
+
+    <string name="enable_hrv">Enable HRV</string>
+    <string name="disable_hrv">Disable HRV</string>
+    <string name="query_hrv_measure_interval">Query HRV Measure Interval</string>
+    <string name="query_hrv_measure_count">Query HRV Measure count</string>
+    <string name="query_hrv_measure_result">Query HRV Measure result</string>
+
+    <string name="dfu_status_download_starting">Starting Download</string>
+    <string name="dfu_status_download_complete">Downloaded Complete</string>
+    <string name="dfu_status_starting">Starting DFU</string>
+    <string name="dfu_status_uploading_part" formatted="false">Uploading part %d</string>
+    <string name="dfu_status_completed">Done</string>
+    <string name="dfu_status_aborted">Aborted</string>
+    <string name="dfu_status_error_msg">DFU process failed.</string>
+
+    <string name="toggle_flash">Toggle Flash</string>
+    <string name="action_settings">Settings</string>
+    <string name="scanned_data">Scanned Data</string>
+    <string name="audio_recorder">Audio Recorder</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="play_recording">Play Recording</string>
+    <string name="stop_playing">Stop Playing</string>
+    <string name="status">Status</string>
+    <string name="textview">TextView</string>
+    <string name="db">DB</string>
+    <string name="send_sleep">send sleep</string>
+
+</resources>

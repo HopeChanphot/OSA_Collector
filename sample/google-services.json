@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "4227581868",
+    "project_id": "osa-collector",
+    "storage_bucket": "osa-collector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4227581868:android:b3fac83deab9e4a3c29c09",
+        "android_client_info": {
+          "package_name": "com.crrepa.sdk.OSA_collector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4227581868-nlffqobk70fk015pt6rr2r55m2pg04aq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crrepa.sdk.OSA_collector",
+            "certificate_hash": "ae66915b0bdb126c37300326f1832bc486576bb5"
+          }
+        },
+        {
+          "client_id": "4227581868-7tecs6neiejk9ul7j4hvam0umq6bi507.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCst3pl1gTzWXWD05i9_9D1jUEa0mYUKEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4227581868-7tecs6neiejk9ul7j4hvam0umq6bi507.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
